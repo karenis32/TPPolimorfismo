@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismo\bin\Debug\TPPolimorfismo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismo\bin\Debug\TPPolimorfismo.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismo\obj\Debug\TPPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismo\obj\Debug\TPPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismo\obj\Debug\TPPolimorfismo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismo\obj\Debug\TPPolimorfismo.pdb

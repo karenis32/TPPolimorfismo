@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismo.TPPolimorfismo.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\bin\Debug\TPPolimorfismoForm.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\bin\Debug\TPPolimorfismoForm.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\bin\Debug\TPPolimorfismoForm.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\bin\Debug\TPPolimorfismo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\bin\Debug\TPPolimorfismo.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPPolimorfismo\TPPolimorfismoForm\obj\Debug\TPPolimorfismoForm.pdb

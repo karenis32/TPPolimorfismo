@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fabfbaeb-4580-44f7-a051-c3ee63f97bfe": {
+      "ProjectGuid": "fabfbaeb-4580-44f7-a051-c3ee63f97bfe",
+      "DisplayName": "TPPolimorfismo",
+      "ColorIndex": 0
+    },
+    "252b92b6-4b23-41e7-806a-4f986da6d608": {
+      "ProjectGuid": "252b92b6-4b23-41e7-806a-4f986da6d608",
+      "DisplayName": "TPPolimorfismoForm",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
